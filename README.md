@@ -1,4 +1,4 @@
-The EZGripper Overlay provides an updated URDF hierarchy for EZGrippers with the following features:
+# The EZGripper Overlay provides an updated URDF hierarchy for EZGrippers with the following features:
 
 - Separation of ezgripper_palm and the mount
 
@@ -13,7 +13,7 @@ This is not fully developed.  To be developed:
 - any ezgripper move_it! files
 
 
-INSTALLATION
+# INSTALLATION
 
 make a directory AWAY FROM xxx.ws
 
@@ -32,4 +32,6 @@ colcon build
 source install/setup.bash
 
 
+# How to run an example EZGripper double
 
+ros2 launch ezgripper_description ezgripper_double_display.launch.py
