@@ -12,6 +12,9 @@ This is not fully developed.  To be developed:
 - further ezgripper_gazebo files
 - any ezgripper move_it! files
 
+# Prerequisites
+
+This is designed to overlay https://github.com/SAKErobotics/EZGripper_ros2
 
 # INSTALLATION
 
