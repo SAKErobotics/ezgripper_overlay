@@ -1,3 +1,5 @@
+# This is an overlay for https://github.com/SAKErobotics/EZGripper_ros2
+
 # The EZGripper Overlay provides an updated URDF hierarchy for EZGrippers with the following features:
 
 - Separation of ezgripper_palm and the mount
