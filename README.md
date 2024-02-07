@@ -24,7 +24,7 @@ make a directory AWAY FROM xxx.ws
 
 cd into new directory
 
-git clone https://github.com/SAKErobotics/ezgripper-overlay
+git clone https://github.com/SAKErobotics/ezgripper_overlay
 
 cd ezgripper-overlay
 
